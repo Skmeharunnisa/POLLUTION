@@ -1,0 +1,533 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.8",
+    "versionPublish": "2.9.8",
+    "name": "NewSite-11-09_1405",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Vanitha%20Bheemavarapu/OneDrive/Desktop/poll"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-1000x625-20.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "MY VISION<br>TO<br>SAVE<br>ENVIRONMENT<br><br><br><br><br><br><br><br>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "36px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "21px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/600px-rotating-earth-huge.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENVIRONMENTAL PROTECTION</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">About Project</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__col .mbr-header__text SPAN": {
+              "font-size": "32px"
+            },
+            "B": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "features1-3",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/istockphoto-1141520118-170667a-509x339-36.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/air-1272x848-19.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">AIR POLLUTION</span>",
+          "caption1": "<b>Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics</b>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/water-1272x772-83.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">WATER POLLUTION</span>",
+          "caption2": "<b>Water pollution occurs when harmful substances—often chemicals or microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment.</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/land-780x520-57.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "<span style=\"font-weight: normal;\">LAND POLLUTION</span>",
+          "caption3": "<b>Land pollution refers to the deterioration of the earth’s land surfaces, at and below ground level. The cause is the accumulation of solid and liquid waste materials that contaminate groundwater and soil.&nbsp;</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/noise-pollution-1000x667-93.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">SOUND POLLUTION</span>",
+          "caption4": "<b>Noise pollution, also known as environmental noise or sound pollution, is the propagation of noise with ranging impacts on the activity of human or animal&nbsp;</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<b>Air pollution is responsible for millions of deaths each year</b><div><b>Air pollution – the combination of outdoor and indoor particulate matter, and ozone – is a risk factor for many of the leading causes of death including heart disease, stroke, lower respiratory infections, lung cancer, diabetes and chronic obstructive pulmonary disease (COPD).</b></div><div><b><br></b></div><div><b>The Institute for Health Metrics and Evaluation (IHME) in its Global Burden of Disease study provide estimates of the number of deaths attributed to the range of risk factors for disease.1</b></div><div><b><br></b></div><div><b>In the visualization we see the number of deaths per year attributed to each risk factor. This chart is shown for the global total, but can be explored for any country or region using the “change country” toggle.</b></div><div><b><br></b></div><div><b>Air pollution is one of the leading risk factors for death. In low-income countries, it is often very near the top of the list (or is the leading risk factor).</b></div>",
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Air pollution is one of the leading risk factors for death. But its impacts go even further, also being one of the main contributors to global disease burden.</b><div><b><br></b></div><div><b>Global disease burden takes into account not only years of life lost to early death, but also the number of years lived in poor health.</b></div><div><b><br></b></div><div><b>In the visualization we see risk factors ranked in order of DALYs – disability-adjusted life years – the metric used to assess disease burden. Again, air pollution is near the top of the list making it one of the leading risk factors for poor health across the world.</b></div><div><b><br></b></div><div><b>Air pollution not only takes years from peoples’ lives, but also had large effect on quality while they’re still living.</b></div><div><br></div><div><br></div>",
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "font-size": "60px",
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__text DIV": {
+              "font-size": "20px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<b>Air pollution is responsible for millions of deaths each year</b><div><b>Air pollution – the combination of outdoor and indoor particulate matter, and ozone – is a risk factor for many of the leading causes of death including heart disease, stroke, lower respiratory infections, lung cancer, diabetes and chronic obstructive pulmonary disease (COPD).</b></div><div><b><br></b></div><div><b>The Institute for Health Metrics and Evaluation (IHME) in its Global Burden of Disease study provide estimates of the number of deaths attributed to the range of risk factors for disease.1</b></div><div><b><br></b></div><div><b>In the visualization we see the number of deaths per year attributed to each risk factor. This chart is shown for the global total, but can be explored for any country or region using the “change country” toggle.</b></div><div><b><br></b></div><div><b>Air pollution is one of the leading risk factors for death. In low-income countries, it is often very near the top of the list (or is the leading risk factor).</b></div>",
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Air pollution is one of the leading risk factors for death. But its impacts go even further, also being one of the main contributors to global disease burden.</b><div><b><br></b></div><div><b>Global disease burden takes into account not only years of life lost to early death, but also the number of years lived in poor health.</b></div><div><b><br></b></div><div><b>In the visualization we see risk factors ranked in order of DALYs – disability-adjusted life years – the metric used to assess disease burden. Again, air pollution is near the top of the list making it one of the leading risk factors for poor health across the world.</b></div><div><b><br></b></div><div><b>Air pollution not only takes years from peoples’ lives, but also had large effect on quality while they’re still living.</b></div><div><br></div><div><br></div>",
+              "authorName": "",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-4",
+          "_params": {
+            "count": "2",
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/air-1272x848-92.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "AIR POLLUTION"
+        },
+        {
+          "items": [
+            {
+              "text": "<b>What Is Water Pollution?</b><div>Water pollution occurs when harmful substances—often chemicals or microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment.</div><div><br></div><div><b>What Are the Causes of Water Pollution?</b></div><div>Water is uniquely vulnerable to pollution. Known as a “universal solvent,” water is able to dissolve more substances than any other liquid on earth. It’s the reason we have Kool-Aid and brilliant blue waterfalls. It’s also why water is so easily polluted. Toxic substances from farms, towns, and factories readily dissolve into and mix with it, causing water pollution.</div>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Not only is the agricultural sector the biggest consumer of global freshwater resources, with farming and livestock production using about 70 percent of the earth’s surface water supplies, but it’s also a serious water polluter. Around the world, agriculture is the leading cause of water degradation. In the United States, agricultural pollution is the top source of contamination in rivers and streams, the second-biggest source in wetlands, and the third main source in lakes. It’s also a major contributor of contamination to estuaries and groundwater. Every time it rains, fertilizers, pesticides, and animal waste from farms and livestock operations wash nutrients and pathogens—such bacteria and viruses—into our waterways. Nutrient pollution, caused by excess nitrogen and phosphorus in water or air, is the number-one threat to water quality worldwide and can cause algal blooms, a toxic soup of blue-green algae that can be harmful to people and wildlife.</b>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__header SPAN": {
+              "font-size": "60px"
+            },
+            ".mbr-reviews__text DIV": {
+              "font-size": "20px"
+            },
+            ".mbr-reviews__text B": {
+              "font-size": "18px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<b>What Is Water Pollution?</b><div>Water pollution occurs when harmful substances—often chemicals or microorganisms—contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment.</div><div><br></div><div><b>What Are the Causes of Water Pollution?</b></div><div>Water is uniquely vulnerable to pollution. Known as a “universal solvent,” water is able to dissolve more substances than any other liquid on earth. It’s the reason we have Kool-Aid and brilliant blue waterfalls. It’s also why water is so easily polluted. Toxic substances from farms, towns, and factories readily dissolve into and mix with it, causing water pollution.</div>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Not only is the agricultural sector the biggest consumer of global freshwater resources, with farming and livestock production using about 70 percent of the earth’s surface water supplies, but it’s also a serious water polluter. Around the world, agriculture is the leading cause of water degradation. In the United States, agricultural pollution is the top source of contamination in rivers and streams, the second-biggest source in wetlands, and the third main source in lakes. It’s also a major contributor of contamination to estuaries and groundwater. Every time it rains, fertilizers, pesticides, and animal waste from farms and livestock operations wash nutrients and pathogens—such bacteria and viruses—into our waterways. Nutrient pollution, caused by excess nitrogen and phosphorus in water or air, is the number-one threat to water quality worldwide and can cause algal blooms, a toxic soup of blue-green algae that can be harmful to people and wildlife.</b>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-5",
+          "_params": {
+            "count": "2",
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/water-bg-1920x1080-90.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "<span style=\"font-weight: normal;\">WATER POLLUTION</span>"
+        },
+        {
+          "items": [
+            {
+              "text": "<b>When many of us think of pollution, images of smoggy cities and litter-infested oceans come to mind. In the 21st century, there isn’t a single surface or space on Earth that hasn’t in some way been impacted by it. While littering and gasoline-fueled cars are a major contributor to pollution, there are many other influences that are important to be aware of. To start, it’s helpful to understand the basics of what pollution exactly is. Essentially, pollution occurs when substances are introduced to the environment that have harmful effects, damaging the quality of land, water, and air. In this post, we’ll be mainly focusing on land pollution specifically.&nbsp;</b>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Land pollution refers to the deterioration of the earth’s land surfaces, at and below ground level. The cause is the accumulation of solid and liquid waste materials that contaminate groundwater and soil. These waste materials are often referred to as municipal solid waste (MSW), which includes both hazardous and non-hazardous waste.</b>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__header SPAN": {
+              "font-size": "60px"
+            },
+            ".mbr-reviews__text B": {
+              "font-size": "20px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<b>When many of us think of pollution, images of smoggy cities and litter-infested oceans come to mind. In the 21st century, there isn’t a single surface or space on Earth that hasn’t in some way been impacted by it. While littering and gasoline-fueled cars are a major contributor to pollution, there are many other influences that are important to be aware of. To start, it’s helpful to understand the basics of what pollution exactly is. Essentially, pollution occurs when substances are introduced to the environment that have harmful effects, damaging the quality of land, water, and air. In this post, we’ll be mainly focusing on land pollution specifically.&nbsp;</b>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<b>Land pollution refers to the deterioration of the earth’s land surfaces, at and below ground level. The cause is the accumulation of solid and liquid waste materials that contaminate groundwater and soil. These waste materials are often referred to as municipal solid waste (MSW), which includes both hazardous and non-hazardous waste.</b>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-8",
+          "_params": {
+            "count": "2",
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/land-780x520-58.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "<span style=\"font-weight: normal;\">LAND POLLUTION</span>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "B": {
+              "font-size": "46px"
+            },
+            "H1": {
+              "font-size": "72px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/best-quotes-on-environmental-pollution-650x500-51.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "AIR &nbsp; POLLUTION<br><br>",
+                "showText": false,
+                "text": "<b>\"&nbsp;Less air pollution is the answer to a healthy life solution.\"</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/soil-pollution-quotes-franklin-roosevelt-nation-destoying-soil-750x499-750x499-5.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/air-pollution-quotes-by-george-w-bush-290988-900x600-15.jpg",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-9",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "contacts1-10",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600px-rotating-earth-huge.gif",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "",
+          "text2": "<b>About Me:</b><br><b>&nbsp;SK.MEHARUNNISA,</b><br><b>MSCS 3RD YEAR,</b><br><b>SSR DEGREE COLLEGE,</b><br><b>MACHILIPATNAM</b><br><b>521001</b><br><b>ANDHRA PRADESH,</b><br><b>+91 13456789,</b><br><b>skmehar@gmail.com</b>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    }
+  }
+}

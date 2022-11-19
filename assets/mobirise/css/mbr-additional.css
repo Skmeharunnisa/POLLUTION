@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#header1-0 H1 {
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  color: #efefef;
+}
+#menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1 .mbr-brand__name a {
+  font-size: 36px;
+}
+#menu-1 .mbr-navbar__items a {
+  font-size: 21px;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-3 .mbr-section__col .mbr-header__text SPAN {
+  font-size: 32px;
+}
+#features1-3 B {
+  font-size: 20px;
+  color: #ffffff;
+}
+#features1-3 P {
+  color: #ffffff;
+  font-size: 30px;
+}
+#testimonials1-4 .mbr-section__header {
+  font-size: 60px;
+  color: #ffffff;
+}
+#testimonials1-4 .mbr-reviews__text DIV {
+  font-size: 20px;
+}
+#testimonials1-5 .mbr-section__header {
+  color: #ffffff;
+}
+#testimonials1-5 .mbr-section__header SPAN {
+  font-size: 60px;
+}
+#testimonials1-5 .mbr-reviews__text DIV {
+  font-size: 20px;
+}
+#testimonials1-5 .mbr-reviews__text B {
+  font-size: 18px;
+}
+#testimonials1-8 .mbr-section__header {
+  color: #ffffff;
+}
+#testimonials1-8 .mbr-section__header SPAN {
+  font-size: 60px;
+}
+#testimonials1-8 .mbr-reviews__text B {
+  font-size: 20px;
+}
+#slider-9 B {
+  font-size: 46px;
+}
+#slider-9 H1 {
+  font-size: 72px;
+}
+#contacts1-10 STRONG {
+  text-align: center;
+}
+#contacts1-10 B {
+  font-size: 24px;
+}
